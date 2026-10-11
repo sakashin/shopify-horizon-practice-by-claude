@@ -9,7 +9,8 @@
             "text": "<h1>ギフトガイド</h1>",
             "type_preset": "h1",
             "max_width": "narrow",
-            "alignment": "left"
+            "alignment": "left",
+            "text_color": "#ffffff"
           }
         },
         "text_2": {
@@ -18,7 +19,8 @@
             "text": "<p>大切な人に、あたたかな一着を。</p>",
             "max_width": "narrow",
             "padding-block-end": 32,
-            "alignment": "left"
+            "alignment": "left",
+            "text_color": "#ffffff"
           }
         },
         "button": {

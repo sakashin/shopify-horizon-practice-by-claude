@@ -9,7 +9,8 @@
             "text": "<h1>ひと冬を、ともに。</h1>",
             "type_preset": "h1",
             "max_width": "narrow",
-            "alignment": "left"
+            "alignment": "left",
+            "text_color": "#ffffff"
           }
         },
         "text_2": {
@@ -18,7 +19,8 @@
             "text": "<p>天然素材のニット、今季の新作</p>",
             "max_width": "narrow",
             "padding-block-end": 32,
-            "alignment": "left"
+            "alignment": "left",
+            "text_color": "#ffffff"
           }
         },
         "button": {
