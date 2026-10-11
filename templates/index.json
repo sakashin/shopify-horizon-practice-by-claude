@@ -8,7 +8,8 @@
           "settings": {
             "text": "<h1>ひと冬を、ともに。</h1>",
             "type_preset": "h1",
-            "max_width": "narrow"
+            "max_width": "narrow",
+            "alignment": "left"
           }
         },
         "text_2": {
@@ -16,7 +17,8 @@
           "settings": {
             "text": "<p>天然素材のニット、今季の新作</p>",
             "max_width": "narrow",
-            "padding-block-end": 32
+            "padding-block-end": 32,
+            "alignment": "left"
           }
         },
         "button": {
@@ -28,7 +30,7 @@
         }
       },
       "settings": {
-        "horizontal_alignment_flex_direction_column": "center",
+        "horizontal_alignment_flex_direction_column": "flex-start",
         "gap": 16,
         "section_height": "large",
         "padding-block-start": 40,
