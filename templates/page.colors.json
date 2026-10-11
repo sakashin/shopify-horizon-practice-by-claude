@@ -1,0 +1,576 @@
+{
+  "sections": {
+    "section_JrGySB": {
+      "type": "section",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>定番色のご紹介</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HIYORI は毎年同じ定番色を続けています。お気に入りの一着を、色違いで買い足せます。</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          }
+        }
+      },
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "small",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ]
+    },
+    "carousel_ZueEsm": {
+      "type": "carousel",
+      "blocks": {
+        "static-header": {
+          "type": "group",
+          "static": true,
+          "settings": {
+            "content_direction": "row",
+            "vertical_on_mobile": false,
+            "horizontal_alignment": "space-between",
+            "vertical_alignment": "flex-end",
+            "align_baseline": true,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 16,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "heading": {
+              "type": "text",
+              "settings": {
+                "text": "<h2>COLORS</h2>",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "wrap": "pretty",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left"
+              }
+            }
+          },
+          "block_order": [
+            "heading"
+          ]
+        },
+        "static-carousel-content": {
+          "type": "_carousel-content",
+          "static": true,
+          "settings": {
+            "position": "top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0,
+            "height": "fit"
+          },
+          "blocks": {
+            "card_1": {
+              "type": "_card",
+              "blocks": {
+                "image_1": {
+                  "type": "image",
+                  "settings": {
+                    "image": "shopify://shop_images/turtleneck_ecru.jpg"
+                  }
+                },
+                "heading_1": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>エクリュ</h3>",
+                    "type_preset": "h5"
+                  }
+                },
+                "text_1": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>生成りのやさしい白。どんな色とも合わせやすい定番。</p>"
+                  }
+                }
+              },
+              "block_order": [
+                "image_1",
+                "heading_1",
+                "text_1"
+              ]
+            },
+            "card_2": {
+              "type": "_card",
+              "blocks": {
+                "image_2": {
+                  "type": "image",
+                  "settings": {
+                    "image": "shopify://shop_images/turtleneck_bordeaux.jpg"
+                  }
+                },
+                "heading_2": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>ボルドー</h3>",
+                    "type_preset": "h5"
+                  }
+                },
+                "text_2": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>深みのある赤。冬の装いに温かみを添える色。</p>"
+                  }
+                }
+              },
+              "block_order": [
+                "image_2",
+                "heading_2",
+                "text_2"
+              ]
+            },
+            "card_3": {
+              "type": "_card",
+              "blocks": {
+                "image_3": {
+                  "type": "image",
+                  "settings": {
+                    "image": "shopify://shop_images/crewneck_sumi.jpg"
+                  }
+                },
+                "heading_3": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>墨</h3>",
+                    "type_preset": "h5"
+                  }
+                },
+                "text_3": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>真っ黒より少しやわらかい黒。きちんと見える一色。</p>"
+                  }
+                }
+              },
+              "block_order": [
+                "image_3",
+                "heading_3",
+                "text_3"
+              ]
+            },
+            "card_4": {
+              "type": "_card",
+              "blocks": {
+                "image_4": {
+                  "type": "image",
+                  "settings": {
+                    "image": "shopify://shop_images/cardigan_oatmeal.jpg"
+                  }
+                },
+                "heading_4": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>オートミール</h3>",
+                    "type_preset": "h5"
+                  }
+                },
+                "text_4": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>自然な風合いのベージュ。重ね着の主役に。</p>"
+                  }
+                }
+              },
+              "block_order": [
+                "image_4",
+                "heading_4",
+                "text_4"
+              ]
+            }
+          },
+          "block_order": [
+            "card_1",
+            "card_2",
+            "card_3",
+            "card_4"
+          ]
+        }
+      },
+      "settings": {
+        "columns": 3,
+        "columns_gap": 12,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      },
+      "block_order": []
+    },
+    "product_list_OIGoZw": {
+      "type": "product-list",
+      "blocks": {
+        "static-header": {
+          "type": "_product-list-content",
+          "static": true,
+          "settings": {
+            "content_direction": "row",
+            "vertical_on_mobile": false,
+            "horizontal_alignment": "space-between",
+            "vertical_alignment": "flex-end",
+            "align_baseline": true,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "product_list_text": {
+              "type": "_product-list-text",
+              "settings": {
+                "text": "<h2>ボルドーのアイテム</h2>",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            }
+          },
+          "block_order": [
+            "product_list_text"
+          ]
+        },
+        "static-product-card": {
+          "type": "_product-card",
+          "static": true,
+          "settings": {
+            "product_card_gap": 4,
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "product-card-gallery": {
+              "type": "_product-card-gallery",
+              "settings": {
+                "image_ratio": "adapt",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            },
+            "product_title": {
+              "type": "product-title",
+              "settings": {
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 4,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            },
+            "price": {
+              "type": "price",
+              "settings": {
+                "show_sale_price_first": true,
+                "show_installments": false,
+                "show_tax_info": false,
+                "type_preset": "h6",
+                "width": "100%",
+                "alignment": "left",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            }
+          },
+          "block_order": [
+            "product-card-gallery",
+            "product_title",
+            "price"
+          ]
+        }
+      },
+      "settings": {
+        "collection": "bordeaux",
+        "max_products": 4,
+        "layout_type": "grid",
+        "carousel_on_mobile": false,
+        "columns": 4,
+        "mobile_columns": "2",
+        "columns_gap": 8,
+        "rows_gap": 24,
+        "icons_style": "arrow",
+        "icons_shape": "none",
+        "section_width": "page-width",
+        "gap": 28,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      },
+      "block_order": []
+    },
+    "section_QqylHc": {
+      "type": "section",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/materials.jpg",
+            "image_ratio": "square"
+          }
+        },
+        "group": {
+          "type": "group",
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "width": "custom"
+          },
+          "blocks": {
+            "heading": {
+              "type": "text",
+              "settings": {
+                "text": "<h2>色へのこだわり</h2>",
+                "type_preset": "h3"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "text": "<p>糸の段階から色を合わせ、毎年同じ色に仕上げています。去年の一着と並べても、違和感なく重ねられます。</p>",
+                "max_width": "narrow"
+              }
+            },
+            "button": {
+              "type": "button",
+              "settings": {
+                "label": "定番色ができるまで",
+                "link": "shopify://blogs/journal"
+              }
+            }
+          },
+          "block_order": [
+            "heading",
+            "text",
+            "button"
+          ]
+        }
+      },
+      "settings": {
+        "content_direction": "row",
+        "gap": 32,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      },
+      "block_order": [
+        "image",
+        "group"
+      ]
+    },
+    "section_YPRhFc": {
+      "type": "section",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>色違いで、もう一着</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>購入した一着の色違いを、いつでもお選びいただけます。</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "label": "すべての商品を見る",
+            "link": "shopify://collections/all",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          }
+        }
+      },
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "small",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ]
+    }
+  },
+  "order": [
+    "section_JrGySB",
+    "carousel_ZueEsm",
+    "product_list_OIGoZw",
+    "section_QqylHc",
+    "section_YPRhFc"
+  ]
+}

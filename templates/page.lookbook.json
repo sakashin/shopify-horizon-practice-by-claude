@@ -1,0 +1,441 @@
+{
+  "sections": {
+    "hero_MxqACP": {
+      "type": "hero",
+      "blocks": {
+        "group_main": {
+          "type": "group",
+          "settings": {
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": true,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 18,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "content_group": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 6,
+                "width": "custom",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_intro": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>2026 AUTUMN / WINTER</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h6",
+                    "font": "var(--font-accent--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  }
+                },
+                "text_main": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h1>ひと冬を、ともに。</h1>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h2",
+                    "font": "var(--font-primary--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  }
+                }
+              },
+              "block_order": [
+                "text_intro",
+                "text_main"
+              ]
+            },
+            "text_description": {
+              "type": "text",
+              "settings": {
+                "text": "<p>天然素材のニットで過ごす、いつもの冬の日。</p>",
+                "width": "fit-content",
+                "max_width": "none",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-primary--family)",
+                "font_size": "",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            }
+          },
+          "block_order": [
+            "content_group",
+            "text_description"
+          ]
+        }
+      },
+      "settings": {
+        "media_type_1": "image",
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "flex-end",
+        "gap": 16,
+        "section_height": "large",
+        "padding-block-start": 40,
+        "padding-block-end": 40,
+        "toggle_overlay": true,
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "image_1": "shopify://shop_images/look_a.jpg",
+        "image_1_mobile": "shopify://shop_images/look_a.jpg"
+      },
+      "block_order": [
+        "group_main"
+      ]
+    },
+    "product_hotspots_xRENsZ": {
+      "type": "product-hotspots",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "static": true,
+          "settings": {
+            "text": "<h3>LOOK 01 ｜ エクリュのタートルネックとワイドパンツ</h3>",
+            "type_preset": "h4"
+          }
+        },
+        "hotspot-1": {
+          "type": "_hotspot-product",
+          "settings": {
+            "x-position": 40,
+            "y-position": 40,
+            "product": "wool-turtleneck-knit"
+          }
+        },
+        "hotspot-2": {
+          "type": "_hotspot-product",
+          "settings": {
+            "x-position": 60,
+            "y-position": 60,
+            "product": "linen-cotton-wide-pants"
+          }
+        }
+      },
+      "settings": {
+        "section_width": "page-width",
+        "product_title_gap": 8,
+        "padding-block-start": 40,
+        "padding-block-end": 40,
+        "image": "shopify://shop_images/look_a.jpg"
+      },
+      "block_order": [
+        "hotspot-1",
+        "hotspot-2"
+      ]
+    },
+    "product_hotspots_fALEcF": {
+      "type": "product-hotspots",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "static": true,
+          "settings": {
+            "text": "<h3>LOOK 02 ｜ ボルドーのニットとストール</h3>",
+            "type_preset": "h4"
+          }
+        },
+        "hotspot-1": {
+          "type": "_hotspot-product",
+          "settings": {
+            "x-position": 40,
+            "y-position": 40,
+            "product": "wool-turtleneck-knit"
+          }
+        },
+        "hotspot-2": {
+          "type": "_hotspot-product",
+          "settings": {
+            "x-position": 60,
+            "y-position": 60,
+            "product": "wool-stole"
+          }
+        }
+      },
+      "settings": {
+        "section_width": "page-width",
+        "product_title_gap": 8,
+        "padding-block-start": 40,
+        "padding-block-end": 40,
+        "image": "shopify://shop_images/look_b.jpg"
+      },
+      "block_order": [
+        "hotspot-1",
+        "hotspot-2"
+      ]
+    },
+    "product_hotspots_LkQVpH": {
+      "type": "product-hotspots",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "static": true,
+          "settings": {
+            "text": "<h3>LOOK 03 ｜ カーディガンとロングスリーブT</h3>",
+            "type_preset": "h4"
+          }
+        },
+        "hotspot-1": {
+          "type": "_hotspot-product",
+          "settings": {
+            "x-position": 40,
+            "y-position": 40,
+            "product": "wool-v-neck-cardigan"
+          }
+        },
+        "hotspot-2": {
+          "type": "_hotspot-product",
+          "settings": {
+            "x-position": 60,
+            "y-position": 60,
+            "product": "heavy-cotton-long-sleeve-tee"
+          }
+        }
+      },
+      "settings": {
+        "section_width": "page-width",
+        "product_title_gap": 8,
+        "padding-block-start": 40,
+        "padding-block-end": 40,
+        "image": "shopify://shop_images/look_c.jpg"
+      },
+      "block_order": [
+        "hotspot-1",
+        "hotspot-2"
+      ]
+    },
+    "product_list_bkaTbL": {
+      "type": "product-list",
+      "blocks": {
+        "static-header": {
+          "type": "_product-list-content",
+          "static": true,
+          "settings": {
+            "content_direction": "row",
+            "vertical_on_mobile": false,
+            "horizontal_alignment": "space-between",
+            "vertical_alignment": "flex-end",
+            "align_baseline": true,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "product_list_text": {
+              "type": "_product-list-text",
+              "settings": {
+                "text": "<h2>このルックのアイテム</h2>",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            }
+          },
+          "block_order": [
+            "product_list_text"
+          ]
+        },
+        "static-product-card": {
+          "type": "_product-card",
+          "static": true,
+          "settings": {
+            "product_card_gap": 4,
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "product-card-gallery": {
+              "type": "_product-card-gallery",
+              "settings": {
+                "image_ratio": "adapt",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            },
+            "product_title": {
+              "type": "product-title",
+              "settings": {
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 4,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            },
+            "price": {
+              "type": "price",
+              "settings": {
+                "show_sale_price_first": true,
+                "show_installments": false,
+                "show_tax_info": false,
+                "type_preset": "h6",
+                "width": "100%",
+                "alignment": "left",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              }
+            }
+          },
+          "block_order": [
+            "product-card-gallery",
+            "product_title",
+            "price"
+          ]
+        }
+      },
+      "settings": {
+        "collection": "new-arrivals",
+        "max_products": 4,
+        "layout_type": "grid",
+        "carousel_on_mobile": false,
+        "columns": 4,
+        "mobile_columns": "2",
+        "columns_gap": 8,
+        "rows_gap": 24,
+        "icons_style": "arrow",
+        "icons_shape": "none",
+        "section_width": "page-width",
+        "gap": 28,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      },
+      "block_order": []
+    }
+  },
+  "order": [
+    "hero_MxqACP",
+    "product_hotspots_xRENsZ",
+    "product_hotspots_fALEcF",
+    "product_hotspots_LkQVpH",
+    "product_list_bkaTbL"
+  ]
+}
