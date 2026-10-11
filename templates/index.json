@@ -27,7 +27,11 @@
           "type": "button",
           "settings": {
             "label": "新作を見る",
-            "link": "shopify://collections/new-arrivals"
+            "link": "shopify://collections/new-arrivals",
+            "style_class": "button-custom",
+            "custom_button_background": "#ffffff",
+            "custom_button_text": "#2b2b2b",
+            "custom_button_border": "#ffffff"
           }
         }
       },

@@ -27,7 +27,11 @@
           "type": "button",
           "settings": {
             "label": "ギフトを探す",
-            "link": "shopify://collections/gift-under-10000"
+            "link": "shopify://collections/gift-under-10000",
+            "style_class": "button-custom",
+            "custom_button_background": "#ffffff",
+            "custom_button_text": "#2b2b2b",
+            "custom_button_border": "#ffffff"
           }
         }
       },

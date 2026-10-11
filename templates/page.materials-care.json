@@ -128,7 +128,7 @@
               "settings": {
                 "label": "素材の違いを読む",
                 "link": "shopify://blogs/journal",
-                "style_class": "button-unstyled"
+                "style_class": "button"
               }
             }
           },
