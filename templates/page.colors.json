@@ -6,7 +6,7 @@
         "heading": {
           "type": "text",
           "settings": {
-            "text": "<h2>定番色のご紹介</h2>",
+            "text": "<h1>定番色のご紹介</h1>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",

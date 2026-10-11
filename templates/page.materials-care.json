@@ -6,7 +6,7 @@
         "heading": {
           "type": "text",
           "settings": {
-            "text": "<h2>素材とお手入れ</h2>",
+            "text": "<h1>素材とお手入れ</h1>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
