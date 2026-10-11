@@ -44,7 +44,8 @@
         "toggle_overlay": true,
         "overlay_style": "gradient",
         "image_1": "shopify://shop_images/hero_model.jpg",
-        "image_1_mobile": "shopify://shop_images/hero_model.jpg"
+        "image_1_mobile": "shopify://shop_images/hero_model_mobile.jpg",
+        "custom_mobile_media": true
       },
       "block_order": [
         "text_1",
