@@ -190,7 +190,8 @@
         "product_title_gap": 8,
         "padding-block-start": 40,
         "padding-block-end": 40,
-        "image": "shopify://shop_images/look_a.jpg"
+        "image": "shopify://shop_images/look_a.jpg",
+        "section_height": "21 / 9"
       },
       "block_order": [
         "hotspot-1",
@@ -230,7 +231,8 @@
         "product_title_gap": 8,
         "padding-block-start": 40,
         "padding-block-end": 40,
-        "image": "shopify://shop_images/look_b.jpg"
+        "image": "shopify://shop_images/look_b.jpg",
+        "section_height": "21 / 9"
       },
       "block_order": [
         "hotspot-1",
@@ -270,7 +272,8 @@
         "product_title_gap": 8,
         "padding-block-start": 40,
         "padding-block-end": 40,
-        "image": "shopify://shop_images/look_c.jpg"
+        "image": "shopify://shop_images/look_c.jpg",
+        "section_height": "21 / 9"
       },
       "block_order": [
         "hotspot-1",
