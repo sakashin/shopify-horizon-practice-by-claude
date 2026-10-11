@@ -162,7 +162,7 @@
           "static": true,
           "settings": {
             "text": "<h3>LOOK 01 ｜ エクリュのタートルネックとワイドパンツ</h3>",
-            "type_preset": "h4"
+            "type_preset": "h3"
           }
         },
         "hotspot-1": {
@@ -202,7 +202,7 @@
           "static": true,
           "settings": {
             "text": "<h3>LOOK 02 ｜ ボルドーのニットとストール</h3>",
-            "type_preset": "h4"
+            "type_preset": "h3"
           }
         },
         "hotspot-1": {
@@ -242,7 +242,7 @@
           "static": true,
           "settings": {
             "text": "<h3>LOOK 03 ｜ カーディガンとロングスリーブT</h3>",
-            "type_preset": "h4"
+            "type_preset": "h3"
           }
         },
         "hotspot-1": {
