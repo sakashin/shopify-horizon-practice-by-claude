@@ -171,16 +171,16 @@
         "hotspot-1": {
           "type": "_hotspot-product",
           "settings": {
-            "x-position": 40,
-            "y-position": 40,
+            "x-position": 43,
+            "y-position": 25,
             "product": "wool-turtleneck-knit"
           }
         },
         "hotspot-2": {
           "type": "_hotspot-product",
           "settings": {
-            "x-position": 60,
-            "y-position": 60,
+            "x-position": 41,
+            "y-position": 67,
             "product": "linen-cotton-wide-pants"
           }
         }
@@ -215,16 +215,16 @@
         "hotspot-1": {
           "type": "_hotspot-product",
           "settings": {
-            "x-position": 40,
-            "y-position": 40,
+            "x-position": 24,
+            "y-position": 75,
             "product": "wool-turtleneck-knit"
           }
         },
         "hotspot-2": {
           "type": "_hotspot-product",
           "settings": {
-            "x-position": 60,
-            "y-position": 60,
+            "x-position": 52,
+            "y-position": 43,
             "product": "wool-stole"
           }
         }
@@ -259,16 +259,16 @@
         "hotspot-1": {
           "type": "_hotspot-product",
           "settings": {
-            "x-position": 40,
-            "y-position": 40,
+            "x-position": 38,
+            "y-position": 47,
             "product": "wool-v-neck-cardigan"
           }
         },
         "hotspot-2": {
           "type": "_hotspot-product",
           "settings": {
-            "x-position": 60,
-            "y-position": 60,
+            "x-position": 54,
+            "y-position": 30,
             "product": "heavy-cotton-long-sleeve-tee"
           }
         }
