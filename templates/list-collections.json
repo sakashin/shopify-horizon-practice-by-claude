@@ -47,7 +47,7 @@
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
-                "type_preset": "h2",
+                "type_preset": "h3",
                 "font": "var(--font-primary--family)",
                 "font_size": "",
                 "line_height": "normal",
@@ -147,7 +147,7 @@
         "icons_style": "arrow",
         "icons_shape": "none",
         "section_width": "page-width",
-        "gap": 12,
+        "gap": 32,
         "background_color": "{{ settings.color_palette.background }}",
         "padding-block-start": 48,
         "padding-block-end": 48

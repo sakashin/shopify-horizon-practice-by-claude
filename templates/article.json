@@ -11,7 +11,7 @@
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
-            "type_preset": "h2",
+            "type_preset": "h3",
             "font": "var(--font-primary--family)",
             "font_size": "",
             "line_height": "normal",
@@ -122,7 +122,7 @@
               "type": "_product-list-text",
               "settings": {
                 "text": "<h2>この記事で紹介したアイテム</h2>",
-                "type_preset": "rte",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "",
                 "line_height": "normal",

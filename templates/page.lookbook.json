@@ -312,7 +312,7 @@
               "type": "_product-list-text",
               "settings": {
                 "text": "<h2>このルックのアイテム</h2>",
-                "type_preset": "rte",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "",
                 "line_height": "normal",

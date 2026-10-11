@@ -10,7 +10,7 @@
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "",
             "line_height": "normal",
@@ -104,7 +104,9 @@
                   "type": "text",
                   "settings": {
                     "text": "<h2>ウール・コットン・リネン</h2>",
-                    "type_preset": "h3"
+                    "type_preset": "custom",
+                    "font": "var(--font-heading--family)",
+                    "font_size": "2rem"
                   }
                 },
                 "text": {
@@ -139,7 +141,9 @@
       },
       "settings": {
         "media_width": "medium",
-        "media_height": "60svh"
+        "media_height": "60svh",
+        "padding-block-start": 0,
+        "padding-block-end": 0
       },
       "block_order": []
     },
@@ -182,9 +186,9 @@
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
-                "type_preset": "h4",
+                "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1rem",
+                "font_size": "1.5rem",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -257,9 +261,9 @@
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
-                "type_preset": "h4",
+                "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1rem",
+                "font_size": "1.5rem",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -332,9 +336,9 @@
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
-                "type_preset": "h4",
+                "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1rem",
+                "font_size": "1.5rem",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -419,7 +423,9 @@
               "type": "text",
               "settings": {
                 "text": "<h2>ウールは、おうちで洗えます</h2>",
-                "type_preset": "h3"
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "2rem"
               }
             },
             "text": {
@@ -694,7 +700,7 @@
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "",
             "line_height": "normal",

@@ -251,7 +251,7 @@
               "type": "text",
               "settings": {
                 "text": "<h2>CATEGORY</h2>",
-                "type_preset": "rte",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "",
                 "line_height": "normal",
@@ -335,7 +335,7 @@
         "icons_style": "arrow",
         "icons_shape": "none",
         "section_width": "page-width",
-        "gap": 12,
+        "gap": 32,
         "padding-block-start": 48,
         "padding-block-end": 48
       },
@@ -364,7 +364,9 @@
               "type": "text",
               "settings": {
                 "text": "<h2>よい日に、いつもの一着を。</h2>",
-                "type_preset": "h3"
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "2rem"
               }
             },
             "text": {
@@ -434,9 +436,9 @@
                   "type": "text",
                   "settings": {
                     "text": "<h3>天然素材100%</h3>",
-                    "type_preset": "h3",
+                    "type_preset": "custom",
                     "font": "var(--font-body--family)",
-                    "font_size": "",
+                    "font_size": "2rem",
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
@@ -509,9 +511,9 @@
                   "type": "text",
                   "settings": {
                     "text": "<h3>国内の工房で生産</h3>",
-                    "type_preset": "h3",
+                    "type_preset": "custom",
                     "font": "var(--font-body--family)",
-                    "font_size": "",
+                    "font_size": "2rem",
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
@@ -584,9 +586,9 @@
                   "type": "text",
                   "settings": {
                     "text": "<h3>定番色を毎年継続</h3>",
-                    "type_preset": "h3",
+                    "type_preset": "custom",
                     "font": "var(--font-body--family)",
-                    "font_size": "",
+                    "font_size": "2rem",
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
@@ -681,7 +683,7 @@
               "type": "_product-list-text",
               "settings": {
                 "text": "<h2>BEST SELLERS</h2>",
-                "type_preset": "rte",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "",
                 "line_height": "normal",
@@ -807,7 +809,7 @@
           "static": true,
           "settings": {
             "text": "<h2>JOURNAL</h2>",
-            "type_preset": "rte"
+            "type_preset": "h3"
           }
         },
         "static-blog-post-card": {
@@ -820,7 +822,8 @@
               "static": true,
               "settings": {
                 "text": "<h4>{{ closest.article.title }}</h4>",
-                "show_alignment": false
+                "show_alignment": false,
+                "type_preset": "h4"
               }
             },
             "blog-post-info-text": {
@@ -851,7 +854,7 @@
         "mobile_columns": "2",
         "columns_gap": 8,
         "rows_gap": 8,
-        "gap": 12,
+        "gap": 28,
         "padding-block-start": 48,
         "padding-block-end": 48,
         "blog": "journal",

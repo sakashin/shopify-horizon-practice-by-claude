@@ -11,7 +11,7 @@
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
-            "type_preset": "h2",
+            "type_preset": "h3",
             "font": "var(--font-primary--family)",
             "font_size": "",
             "line_height": "normal",
@@ -94,7 +94,7 @@
       ],
       "settings": {
         "background_color": "{{ settings.color_palette.background }}",
-        "padding-block-start": 0,
+        "padding-block-start": 48,
         "padding-block-end": 48
       }
     }

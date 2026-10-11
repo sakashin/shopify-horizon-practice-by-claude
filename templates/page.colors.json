@@ -10,7 +10,7 @@
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "",
             "line_height": "normal",
@@ -307,7 +307,7 @@
               "type": "_product-list-text",
               "settings": {
                 "text": "<h2>ボルドーのアイテム</h2>",
-                "type_preset": "rte",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "",
                 "line_height": "normal",
@@ -446,7 +446,9 @@
               "type": "text",
               "settings": {
                 "text": "<h2>色へのこだわり</h2>",
-                "type_preset": "h3"
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "2rem"
               }
             },
             "text": {
@@ -492,7 +494,7 @@
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "",
             "line_height": "normal",
